@@ -1,9 +1,9 @@
 {
   "detector": "venue_date",
   "movie": "Avengers: Doomsday",
-  "requested_date": "20261217",
-  "venue_code": "RAKK",
-  "venue_label": "Rakki Cinemas: OMR, Kelambakkam",
-  "url_template": "https://in.bookmyshow.com/movies/chennai/avengers-doomsday/buytickets/ET00526287/{date}",
+  "requested_date": "20261220",
+  "venue_code": "PRHN",
+  "venue_label": "Prasads Multiplex: Hyderabad",
+  "url_template": "https://in.bookmyshow.com/cinemas/HYD/prasads-multiplex-hyderabad/buytickets/PRHN/20261220",
   "min_references": 10
 }
